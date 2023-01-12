@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(52, 53, 52);
+    background-color: rgb(172, 172, 172);
 }
 
 .jumbotron {
@@ -39,7 +39,6 @@ body {
 #add-track {
     top: 1vh;
     right: 1vh;
-
 }
 
 #add-track:hover {
